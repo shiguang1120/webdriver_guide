@@ -1,3 +1,8 @@
+转载自乙醇，做了简单的[wiki](https://github.com/shiguang1120/webdriver_guide/wiki)，乙醇的blog
+
+乙醇的webdriver实用指南，书籍查看gitbook,一下为原内容。
+
+
 # 简介
 
 几年前我在github上写了webdriver实用指南，由于github本身设计的目的是为了承载代码，而不是承载书籍，用户观感不佳，所以现在将其重构至[gitbook](https://www.gitbook.com/book/easonhan007/selenium-webdriver/details)。
